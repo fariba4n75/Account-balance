@@ -23,10 +23,10 @@ SQLite database for storage
 
 1. Clone the repository:
 ```
-git clone https://github.com/username/bank-api.git
+git clone https://github.com/fariba4n75/Account-balance.git
 
 
-cd bank-api
+cd Account-balance
 ```
 2. Create a virtual environment & install dependencies
 ```
