@@ -49,12 +49,14 @@ POST /accounts/ → Create a new bank account
 POST /balance/ → Retrieve account balance
 
 # 📂 Project Structure
+```
 bank-api/
 │-- database.py   # Database configuration (SQLite + SQLAlchemy)
 │-- models.py     # Database models (User, Account)
 │-- schemas.py    # Pydantic schemas for request/response
 │-- main.py       # Main API logic (JWT authentication, routes)
 │-- README.md     # Project documentation
+```
 
 # 📝 License
 
