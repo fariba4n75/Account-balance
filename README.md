@@ -7,12 +7,20 @@ Users can register, create bank accounts, and check their account balances.
 Authentication is handled using JWT (JSON Web Token).
 
 **⚙️ Features**
+
 User registration
+
 User login with JWT authentication
+
 Create a new bank account
+
 Retrieve account balance
+
 SQLite database for storage
+
+
 **🚀 Installation & Setup**
+
 1. Clone the repository:
 ```
 git clone https://github.com/username/bank-api.git
