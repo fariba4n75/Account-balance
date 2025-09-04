@@ -16,6 +16,8 @@ SQLite database for storage
 1. Clone the repository:
 
 git clone https://github.com/username/bank-api.git
+
+
 cd bank-api
 
 # 2. Create a virtual environment & install dependencies
