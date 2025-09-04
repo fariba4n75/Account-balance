@@ -1,18 +1,18 @@
 # Bank API with FastAPI
 
-# 📖 Description
+**📖 Description**
 
 This project is a simple Banking API built with FastAPI, SQLAlchemy, and Pydantic.
 Users can register, create bank accounts, and check their account balances.
 Authentication is handled using JWT (JSON Web Token).
 
-# ⚙️ Features
+**⚙️ Features**
 User registration
 User login with JWT authentication
 Create a new bank account
 Retrieve account balance
 SQLite database for storage
-# 🚀 Installation & Setup
+**🚀 Installation & Setup**
 1. Clone the repository:
 ```
 git clone https://github.com/username/bank-api.git
@@ -34,7 +34,7 @@ The API will be available at:
 
 http://127.0.0.1:8000
 
-# 📚 API Documentation
+**📚 API Documentation**
 
 FastAPI automatically generates interactive documentation at:
 
@@ -50,7 +50,7 @@ POST /accounts/ → Create a new bank account
 
 POST /balance/ → Retrieve account balance
 
-# 📂 Project Structure
+**📂 Project Structure**
 ```
 bank-api/
 │-- database.py   # Database configuration (SQLite + SQLAlchemy)
@@ -60,6 +60,6 @@ bank-api/
 │-- README.md     # Project documentation
 ```
 
-# 📝 License
+**📝 License**
 
-This project is for educational purposes and can be freely used or modified.
+This project can be freely used.
