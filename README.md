@@ -20,12 +20,12 @@ git clone https://github.com/username/bank-api.git
 
 cd bank-api
 
-# 2. Create a virtual environment & install dependencies
+ 2. Create a virtual environment & install dependencies
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# 3. Run the server
+ 3. Run the server
 uvicorn main:app --reload
 
 The API will be available at:
